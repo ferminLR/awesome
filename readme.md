@@ -366,6 +366,7 @@
 - [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
 - [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
+- [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
